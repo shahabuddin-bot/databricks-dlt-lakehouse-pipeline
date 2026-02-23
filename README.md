@@ -20,3 +20,7 @@ Bronze → Silver → Gold
 
 ## Tech Stack
 Databricks | Delta Live Tables | PySpark | Delta Lake
+
+## DLT Pipeline Architecture
+
+![DLT Pipeline](screenshots/dlt_pipeline_graph.png)
